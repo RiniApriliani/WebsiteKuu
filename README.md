@@ -1,5 +1,5 @@
 # WebsiteKuu
-Tugas Pemograman Multimedia_Rini Apriliani
+Tugas Pemograman Multimedia_Dosen : Rosidin M.Kom
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
